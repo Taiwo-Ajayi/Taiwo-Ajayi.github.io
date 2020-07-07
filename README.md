@@ -1,2 +1,2 @@
-# http://Taiwo-Ajayi.github.io
+# Taiwo-Ajayi.github.io
 My personal website
